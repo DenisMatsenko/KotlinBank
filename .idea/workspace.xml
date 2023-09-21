@@ -5,11 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07d22c16-5b8f-494b-ba81-62a8b3ac000e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Bank.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BankAccount/BankAccount.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Person/Person.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bankAccount/baseBankAccount.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bankAccount/studentBankAccount.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/moneyTransfer/atmTrnsferFeeCalcService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/moneyTransfer/bankAccoutTransferFeeCalcService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/moneyTransfer/fee/feeConfigService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/moneyTransfer/moneyTransfer.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/moneyTransfer/validation/validationService.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Bank.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Bank.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/BankAccount/BankAccount.kt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Person/Person.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/person/person.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +28,7 @@
       <list>
         <option value="Kotlin Script" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -38,12 +46,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
       <recent name="BankAccount" />

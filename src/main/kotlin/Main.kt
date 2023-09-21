@@ -1,4 +1,9 @@
 fun main(args: Array<String>) {
-    val bank = Bank()
-    bank.run()
+
+    try {
+        val bank = Bank()
+        bank.run()
+    } catch (e: Exception) {
+        println(e.message)
+    }
 }
