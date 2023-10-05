@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07d22c16-5b8f-494b-ba81-62a8b3ac000e" name="Changes" comment="" />
+    <list default="true" id="07d22c16-5b8f-494b-ba81-62a8b3ac000e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bankAccount/saveBankAccount.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/moneyTransfer/fee/feeConfigService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/moneyTransfer/fee/feeConfigService.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Script" />
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
