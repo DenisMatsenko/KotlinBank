@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07d22c16-5b8f-494b-ba81-62a8b3ac000e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bankAccount/saveBankAccount.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/moneyTransfer/fee/feeConfigService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/moneyTransfer/fee/feeConfigService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bankAccount/interestAccount.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/interest/applayInterestService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/interest/calcInterestService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/interest/interestConfigService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Bank.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Bank.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/bankAccount/baseBankAccount.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/bankAccount/baseBankAccount.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/bankAccount/saveBankAccount.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/bankAccount/saveBankAccount.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/bankAccount/studentBankAccount.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/bankAccount/studentBankAccount.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/moneyTransfer/atmTrnsferFeeCalcService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/moneyTransfer/fee/atmTrnsferFeeCalcService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/moneyTransfer/bankAccoutTransferFeeCalcService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/moneyTransfer/fee/bankAccoutTransferFeeCalcService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/moneyTransfer/moneyTransfer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/moneyTransfer/moneyTransfer.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +28,7 @@
       <list>
         <option value="Kotlin Script" />
         <option value="Kotlin File" />
+        <option value="Class" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -43,6 +54,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/moneyTransfer/fee" />
+    </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
       <recent name="BankAccount" />
     </key>
