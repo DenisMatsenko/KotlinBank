@@ -1,9 +1,9 @@
-package moneyTransfer
+package moneyTransfer.fee
 
 import bankAccount.BaseBankAccount
 import moneyTransfer.fee.FeeConfigService
 
-class AtmTransferFeeCalcService {
+class BankAccountTransferFeeCalcService {
     fun calculateFee(amount: Double, bankAccount: BaseBankAccount): Double {
         val feeConfig = FeeConfigService(bankAccount)
 
