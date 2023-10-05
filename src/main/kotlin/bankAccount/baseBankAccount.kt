@@ -12,6 +12,10 @@ open class BaseBankAccount(
         return balance
     }
 
+    fun getOwner(): Person {
+        return owner
+    }
+
     open fun setBalance(balance: Double) {
         this.balance = balance
     }

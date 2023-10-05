@@ -6,4 +6,4 @@ class StudentBankAccount(
     owner: Person,
     bankAccountNumber: String,
     balance: Double,
-) : BaseBankAccount(owner, bankAccountNumber, balance) {}
+) : BaseBankAccount(owner, bankAccountNumber, balance), InterestAccount {}
